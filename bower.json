@@ -1,0 +1,11 @@
+{
+  "name": "bc-phone-scan",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-rc.4",
+    "ng-cordova": "~0.0.3"
+  },
+  "dependencies": {
+    "ng-cordova": "~0.0.3"
+  }
+}
